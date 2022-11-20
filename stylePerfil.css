@@ -21,7 +21,7 @@
 .FotoPerfil {
     margin-top: 10px;
     border-radius: 50%;
-    width: 220px;
+    width: 100%;
     border: 8px solid #F46308;
     cursor: pointer;
 }
