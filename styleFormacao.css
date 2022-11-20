@@ -1,0 +1,47 @@
+.Formação {
+    background-color: #fff;
+    font-family: "Neo Sans Regular";
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    margin-top: 50px;
+}
+
+.LISTAformação {
+    list-style: none;
+}
+
+.Ano {
+    color: #22566B;
+    font-family: "Neo Sans Regular";
+    font-size: 12px;
+}
+
+.BOLD {
+    font-family: "Neo Sans Bold";
+    color: #22566B;
+}
+
+.DivFormat {
+    display: flex;
+
+
+}
+
+.DivH1 {
+    width: 35px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F46308 ;
+    border-radius: 0px 20px 20px 0px;
+}
+.DivH1 h1 {
+    rotate: 270deg;
+    font-family: "Neo Sans Bold";
+    font-size: 15px;
+    color:#fff
+    
+}

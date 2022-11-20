@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Neo sans";
+    src: url(./fonte/Neo\ Sans\ Std\ Light.otf);
+}
+
+@font-face {
+    font-family: "Neo Sans Bold";
+    src: url(./fonte/Neo\ Sans\ Std\ Bold.otf);
+}
+
+@font-face {
+    font-family: "Neo Sans Regular";
+    src: url(./fonte/Neo\ Sans\ Std\ Regular.otf);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    font-family: "Neo sans";
+}
+
+.curriculo{
+    display: flex;
+}

@@ -1,0 +1,103 @@
+
+
+.Perfil {
+    padding: 32px;
+    background-color: #1C3380;
+    color: white;
+
+}
+
+.DivFoto {
+    text-align: center;
+    align-items: center;
+}
+
+.DivFoto:hover {
+    transform: scale(1.2);
+    margin-bottom: 50px;
+    transition: .2s;
+}
+
+.FotoPerfil {
+    margin-top: 10px;
+    border-radius: 50%;
+    width: 220px;
+    border: 8px solid #F46308;
+    cursor: pointer;
+}
+
+.DivFoto h1 {
+    font-family: "Neo sans bold";
+    font-size: 36px;
+
+}
+
+.DivFoto p {
+    margin-top: -15px;
+}
+
+.Contato {
+    width: 100%;
+}
+
+.Contato h1 {
+    font-family: "Neo sans bold";
+    font-size: 20px;
+}
+
+.Contato hr {
+    width: 130px;
+    margin-top: -10px;
+    margin-left: -5px;
+    border: 1px solid #22566B;
+}
+
+.Contato ul {
+    width:100%;
+    margin-left: -38px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+}
+
+.Contato ul li img {
+    margin-right: 3%;
+}
+
+.Contato ul li:hover {
+    transform: scale(1.3);
+    transition: .5s;
+}
+
+.Contato ul li span {
+    margin-left: 50px;
+}
+
+.Contato a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.Habilidade h1{
+    font-family: "Neo sans bold";
+    font-size: 20px;
+}
+
+.Habilidade hr{
+    width: 170px;
+    margin-top: -10px;
+    margin-left: -5px;
+    border: 1px solid #22566B;
+}
+
+.Habilidade ul{
+    width: 100%;
+    margin-left: -38px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
